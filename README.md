@@ -53,7 +53,7 @@ Main purpose of The Dex Experiment is to enable and test the *Probabilistic Altr
 A decentralized on-chain system cannot force actual USD to be delivered for Bitcoin and visa-versa. Other exchanges, such as the CME, use what is called `Cash Delivery`. Cash delivery requires an external price of Bitcoin/USD to peg the final settlement price of each futures contract. 
 
 ### The Delivery Problem 
-Dexchain cant claim to be *generating* price discovery, if it replies on external price with cash delivery. 
+Dexchain cant claim to be *generating* price discovery, if it relies on external price with cash delivery. 
 Dexchain cant claim to be a DEX if it requires a centralized custodian to *force* delivery. 
 
 ### What about atomic swaps? 
