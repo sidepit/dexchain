@@ -106,19 +106,3 @@ Core component assumes an on-chain token pegged to bitcoin, and an external prob
 2. Dex Chain sidechain POC ( wip )  
 3. Dex Experiment 
 4. Sidepit paper 2.0 with results from Experiment 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
