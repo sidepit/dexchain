@@ -45,47 +45,53 @@ Experiment will be a controlled ~6 month first run of the Dexchain proof-of-conc
 5. Delivery of Bitcoin for USD 
 
 ### Purpose 
-Running it as an experipent, enables scientific gathering of data without the regulator hurdles of full blown public service. Just like controlled experients on illegal drugs, to test the possible medical benefits, without the hurdles of the war on drugs, The Dex Experiment will test the public benefits of dentralized Exchange without the hurdles of Legal tender, KYC, AML, Securities laws. 
+Running it as an experiment, enables scientific gathering of data without the regulator hurdles of full blown public service. Just like controlled experiments on illegal drugs, to test the possible medical benefits, without the hurdles of the war on drugs, The Dex Experiment will test the public benefits of decentralized Exchange without the hurdles of Legal tender, KYC, AML, Securities laws. 
 
-Main pupose of The Dex Experiment is to enable and test the *Probabilistic Altruistic Delivery* hypothesis 
+Main purpose of The Dex Experiment is to enable and test the *Probabilistic Altruistic Delivery* hypothesis 
 
 ## Probabilistic Altruistic Delivery
 A decentralized on-chain system cannot force actual USD to be delivered for Bitcoin and visa-versa. Other exchanges, such as the CME, use what is called `Cash Delivery`. Cash delivery requires an external price of Bitcoin/USD to peg the final settlement price of each futures contract. 
 
 ### The Delivery Problem 
 Dexchain cant claim to be *generating* price discovery, if it replies on external price with cash delivery. 
-Dexchain cant claim to be a DEX if it requires a centralized custidian to *force* delivery. 
+Dexchain cant claim to be a DEX if it requires a centralized custodian to *force* delivery. 
 
 ### What about atomic swaps? 
 Atomic swaps solve for non-custodial by not having a *forced" matching engine. One side, can always back out, even after a price is negotiated. 
-Forced matching is a basic requiment of price discovery and on-chain limit order book matching enegines. 
+Forced matching is a basic requirement of price discovery and on-chain limit order book matching engines. 
 
 ### Forced matching with price discovery vs non-custodial 
-Dexchain choses forced matching for price discovery, but is still able to achive almost full non-custodial trading by staying `on-chain`. 
+Dexchain choses forced matching for price discovery, but is still able to achieve almost full non-custodial trading by staying `on-chain`. 
 
 ### The Final Mile Trust via Altruistic Delivery 
-* Bitcoiners may choiose to volenteer to deliver on their futures contract positions by either delivering USD for short positions or Bitcoin for long positions. 
+* Bitcoiners may choose to volunteer to deliver on their futures contract positions by either delivering USD for short positions or Bitcoin for long positions. 
 * This requires longs and shorts to match and agree to deliver. 
 * This now becomes the things we have been doing for years, a simple p2p swap of bitcoin for USD, like bitcoin-otc, or localbitcoin or bisq, etc.. 
-* However, on-chain attestation of such a delivery is not possible, and it requires the assumtion of *altruistic delivery* 
+* However, on-chain attestation of such a delivery is not possible, and it requires the assumption of *altruistic delivery* 
 
-The probability that going long or short bitcoin/USD futures will enable you to ultimatley deliver is what ultimatley ensures a price-peg to the reality of the $BCTUSD price. 
+The probability that going long or short bitcoin/USD futures will enable you to ultimately deliver is what ultimately ensures a price-peg to the reality of the $BCTUSD price. 
 
 ## Bitcoin Notaries - delivery of last resort 
 * Thousands of local non technical plebs, bitcoiners, and common people are eager to get educated on bitcoin, earn some Sats, and be part of this revolution 
-* Ultimatly swaping of Bitcoin for USD is an in-person face to face interaction, which requires longs and shorts seeking delivery to pysically be in the same region 
+* Ultimately swapping of Bitcoin for USD is an in-person face to face interaction, which requires longs and shorts seeking delivery to physically be in the same region 
 
 We propose a simple on-chain attestation of delivery process though social trust of so called `Bitcoin Notaries`
 1. Notaries will be a decentralized self governing group of regional individuals
-2. Altruistic Longs and Shorts may choose a Notery to facilitate low value ($100) final mile delivery 
+2. Altruistic Longs and Shorts may choose a Notary to facilitate low value ($100) final mile delivery 
 
-### The barista comparitive 
-When purchasing coffee with Lighning bitcoin at point-of-sale, one would pay with LN, and then trust that the barista will in-fact deliver on her promise of delivering the Coffee. So to with Notaries, you pay the notary USD and trust that she will deliver the bitcoin and visa-versa. 
+### The barista comparative 
+When purchasing coffee with Lightning bitcoin at point-of-sale, one would pay with LN, and then trust that the barista will in-fact deliver on her promise of delivering the Coffee. So to with Notaries, you pay the notary USD and trust that she will deliver the bitcoin and visa-versa. 
 
-*Atomic swap of Bitcoin to USD is just as inpossible as an Atomic swap of Bitcoin for coffee. Final mile trust required.*  
+*Atomic swap of Bitcoin to USD is just as impossible as an Atomic swap of Bitcoin for coffee. Final mile trust required.*  
 
 ### Rational Design and Game Theory 
-* A notery that goes through the self-identification process as Bitcoin Notery by going through special education programs with detailed techniques and specialed portable full-node hardware and software, is in it for the Sats as well as altruistaltic in completing the process that 
+A notary that goes through the self-identification process as Bitcoin Notary by going through special education programs with detailed techniques and specialized portable full-node hardware and software, is in it for the SATs as well as altruistic in completing the process to enable `Fair Price Discovery` as a public good, and joining the bitcoin revolution. 
+
+Given that the longs and shorts are also volunteering to take part in delivery for the same *altruistic* reasons, once you enter into the Notary delivery system it becomes a social interaction, just like with the barista. 
+
+By explicitly stating purpose and goals, and with the process taking time, energy and risk, the game theory equilibrium will hopefully prove to be in line with the intent of the model. This result will be analyzed from The Dex Experiment data. 
+
+
 
 
 
