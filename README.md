@@ -84,6 +84,8 @@ When purchasing coffee with Lightning bitcoin at point-of-sale, one would pay wi
 
 *Atomic swap of Bitcoin to USD is just as impossible as an Atomic swap of Bitcoin for coffee. Final mile trust required.*  
 
+When you hold your receipt for Coffee in your hand, that receipt is "good" for coffee. When you get a delivery receipt for USD after paying bitcoin, that receipt is "as-good" as USD. Making the receipt a possible `Dexdollar` stablecoin . In fact, the UTXO held by a Notary during delivery is explicity worth ($100) USD, idependant of current price. This is an avenue for further research into a possible bitcoin backed stablecoin!      
+
 ### Rational Design and Game Theory 
 A notary that goes through the self-identification process as Bitcoin Notary by going through special education programs with detailed techniques and specialized portable full-node hardware and software, is in it for the SATs as well as altruistic in completing the process to enable `Fair Price Discovery` as a public good, and joining the bitcoin revolution. 
 
