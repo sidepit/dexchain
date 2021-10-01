@@ -91,6 +91,20 @@ Given that the longs and shorts are also volunteering to take part in delivery f
 
 By explicitly stating purpose and goals, and with the process taking time, energy and risk, the game theory equilibrium will hopefully prove to be in line with the intent of the model. This result will be analyzed from The Dex Experiment data. 
 
+## Separation Of Concerns 
+By separating main components of the Dexchain, we are able to keep our focus on the core distributed limit order book technology. 
+
+1. Bitcoin to DEX peg-in and peg-out trust model is external to the core 
+2. Voluntary delivery via voluntary independent external Notaries are external to the core  
+
+Core component assumes an on-chain token pegged to bitcoin, and an external probability of delivery. No company, non-profit, or coordination with the core Dexchain is needed nor desired. We expect these to evolve independently. 
+
+## Milestones 
+1. Sidepit paper (complete) 
+2. Dex Chain sidechain POC ( wip )  
+3. Dex Experiment 
+4. Sidepit paper 2.0 with results from Experiment 
+
 
 
 
