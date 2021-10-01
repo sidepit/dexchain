@@ -93,7 +93,7 @@ Given that the longs and shorts are also volunteering to take part in delivery f
 
 By explicitly stating purpose and goals, and with the process taking time, energy and risk, the game theory equilibrium will hopefully prove to be in line with the intent of the model. This result will be analyzed from The Dex Experiment data. 
 
-## Separation Of Concerns 
+## Separation of Concerns 
 By separating main components of the Dexchain, we are able to keep our focus on the core distributed limit order book technology. 
 
 1. Bitcoin to DEX peg-in and peg-out trust model is external to the core 
