@@ -1,7 +1,7 @@
 # dexchain
 dexchain: a bitcoin sidechain decentralized exchange 
 
-### Purpose 2
+### Purpose 
 * dexchain is for traders to hedge bitcoin/usd by selling short futures contracts 
 * dexchain is for speculator to leverage Bitcoin by going long futures contracts 
 * dexchain is for market-making bots looking for alpha 
