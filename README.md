@@ -21,10 +21,10 @@ Previous attempts at Bitcoin DEXs concentrated solely on the non-custodial aspec
 * Dexchain is focused on the price for those non-custodial p2p atomic swaps.  
 
 ### Main hurdles 
-* peg-in / peg-out - ability to go from Bitcoin to Dexchain and back again, solved with *Bitcoin Peg Trust Module*
-* MEV / front-running of on-chain Limit Order Books - solved with *Sidepit* and *Pay to Front-run* 
-* Anchoring on-chain Bitcoin/USd futures price to reality on the ground - solved with `Probabilistic Altruistic Delivery` 
-* KYC / AML / MTL / Legalities associated with *final mile" p2p USD cash to bitcoin - solved with `The Dex Experiment`
+* peg-in / peg-out - ability to go from Bitcoin to Dexchain and back again, solved with [Bitcoin Peg Trust Module](https://docs.google.com/document/d/1cUQm0lB0OXObxyHNhQu3HO2gA7loc-6TXKKkT7zhgwE/edit?usp=sharing)
+* MEV / front-running of on-chain Limit Order Books - solved with [Sidepit and Pay to Front-run](https://jaybny.com/sidepit/) 
+* Anchoring on-chain Bitcoin/USd futures price to reality on the ground - solved with [Probabilistic Altruistic Delivery](https://github.com/sidepit/dexchain/edit/main/README.md#probabilistic-altruistic-delivery) 
+* KYC / AML / MTL / Legalities associated with *final mile" p2p USD cash to bitcoin - solved with [The Dex Experiment](https://github.com/sidepit/dexchain/edit/main/README.md#the-dex-experiment)
 
 ### Components 
 * Bitcoin Peg Trust Module 
